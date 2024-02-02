@@ -3,4 +3,4 @@
 const card = document.querySelectorAll('.card');
 console.log(card);
 
-//Si no existe retorna un string vacio.
+//Si no existe retorna un array vacio.
